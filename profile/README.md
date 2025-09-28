@@ -1,7 +1,7 @@
 # Fork – Fast and Friendly Git Client for Mac
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/58322/m/fork-logo.png?v=1669640777" alt="Fork Logo" width="256" height="256">  
+<img src="https://cdn.dribbble.com/userupload/29552773/file/original-ea122da5c941e74e7c7c7b8cf6015405.png?format=webp&resize=400x300&vertical=center" alt="Fork Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
